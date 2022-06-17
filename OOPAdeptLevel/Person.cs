@@ -21,16 +21,7 @@
         }
         public override int GetHashCode() => Languages.GetHashCode();
     }
-    class Company
-    {
-        public string Name { get; set; }  
-        public List<Person>? Employees { get; set; }
-        public Company(string name, List<Person>? employees)
-        {
-            Name = name;     
-            Employees = new List<Person>();
-        }
-    }
+    
     class Student : Person
     {
         public string Name { get; set; }
