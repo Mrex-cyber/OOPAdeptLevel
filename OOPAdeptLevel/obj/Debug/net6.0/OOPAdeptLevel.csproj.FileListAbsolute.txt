@@ -1,0 +1,15 @@
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\bin\Debug\net6.0\OOPAdeptLevel.exe
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\bin\Debug\net6.0\OOPAdeptLevel.deps.json
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\bin\Debug\net6.0\OOPAdeptLevel.runtimeconfig.json
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\bin\Debug\net6.0\OOPAdeptLevel.dll
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\bin\Debug\net6.0\OOPAdeptLevel.pdb
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.csproj.AssemblyReference.cache
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.AssemblyInfoInputs.cache
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.AssemblyInfo.cs
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.csproj.CoreCompileInputs.cache
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.dll
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\refint\OOPAdeptLevel.dll
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.pdb
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\OOPAdeptLevel.genruntimeconfig.cache
+D:\.NET projects\OOPAdeptLevel\OOPAdeptLevel\obj\Debug\net6.0\ref\OOPAdeptLevel.dll
